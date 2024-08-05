@@ -13,7 +13,7 @@ class Homepage extends StatelessWidget {
         centerTitle: true,
         backgroundColor: Colors.white,
         title: Text(
-          'Saptaloka FC',
+          'Saptaloka ahey',
           style: TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),
         ),
       ),
